@@ -13,6 +13,7 @@
 - Download the dataset from here (https://datadryad.org/stash/dataset/doi:10.5061/dryad.5hqbzkh6f)
 - Extract the downloaded dataset manually.
 - Extracted data must not contain any zip file. Directory formation must be like:
+'''
 project_folder/
 ├── data/
 │   ├── surveyResults.csv
@@ -28,7 +29,7 @@ project_folder/
 │       └── 5C_181.../
 .
 .
-.
+.'''
 - Place jupyter and .py files in the same place.
 - Update the path of "data_path" and "survey_path" for the dataset according to the extracted data in jupyter file.
 - Run the jupyter notebook file.
