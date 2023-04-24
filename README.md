@@ -27,9 +27,11 @@ project_folder/
 │           ├── e.csv
 │           └── f.csv
 │       └── 5C_181.../
+│           ├── a.csv
+│           ├── b.csv
 .
 .
-.```
+```
 - Place jupyter and .py files in the same place.
 - Update the path of "data_path" and "survey_path" for the dataset according to the extracted data in jupyter file.
 - Run the jupyter notebook file.
